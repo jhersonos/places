@@ -4,8 +4,8 @@ export default class Title extends React.Component{
     render(){
         return(
             <div>
-                <h1>Places</h1>
-                <p>Descubre lugares de manera simple</p>
+                <h1>El momero</h1>
+                <p>Únete a la comunidad momera </p>
             </div>
         )
     }
